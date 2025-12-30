@@ -176,3 +176,5 @@ cython_debug/
 
 # Repomix for outputing files: repomix --ignore "tests/data/**"
 repomix-output.*
+
+.idea/
